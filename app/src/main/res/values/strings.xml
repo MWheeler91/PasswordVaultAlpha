@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PasswordVault</string>
+    <string name="title_activity_new_password">NewPassword</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="save">Save</string>
+    <string name="website">Website:</string>
+    <string name="password">Password:</string>
+    <string name="user_id">User ID:</string>
+    <string name="title">Title:</string>
+    <string name="cancel">Cancel</string>
+    <string name="numbers_n_0_9">Numbers \n 0–9</string>
+    <string name="new_password">New Password</string>
+    <string name="special_characters">Special Characters</string>
+    <string name="lower_case_n_a_z">Lower Case \n a-z</string>
+    <string name="upper_case_n_a_z">Upper Case \n A-Z</string>
+    <string name="number_of_characters">Number of Characters</string>
+    <string name="generate">Generate</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
